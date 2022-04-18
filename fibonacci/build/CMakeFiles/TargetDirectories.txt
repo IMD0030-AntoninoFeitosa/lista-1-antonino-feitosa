@@ -1,0 +1,5 @@
+/home/runner/Lista1-LP/fibonacci/build/CMakeFiles/rebuild_cache.dir
+/home/runner/Lista1-LP/fibonacci/build/CMakeFiles/edit_cache.dir
+/home/runner/Lista1-LP/fibonacci/build/CMakeFiles/run_tests.dir
+/home/runner/Lista1-LP/fibonacci/build/CMakeFiles/all_tests.dir
+/home/runner/Lista1-LP/fibonacci/build/CMakeFiles/func.dir
