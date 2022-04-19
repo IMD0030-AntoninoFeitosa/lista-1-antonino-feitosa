@@ -8,7 +8,7 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 
 # Questões Finalizadas
 
-- [x] Negativos 5
+- [ ] Negativos 5
 - [ ] Soma Vizinhos
 - [ ] Intervalos
 - [ ] Fibonacci
@@ -17,7 +17,6 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 - [ ] Filtragem
 - [ ] Ponto em Retângulo 1
 - [ ] Ponto em Retângulo 2
-
 
 --------
 &copy; DIMAp/IMD/UFRN 2021.
